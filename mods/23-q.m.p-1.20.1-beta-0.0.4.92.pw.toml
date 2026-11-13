@@ -1,0 +1,8 @@
+name = "Q.M.P 1.20.1 Beta 0.0.4.92"
+filename = "23-q.m.p-1.20.1-beta-0.0.4.92.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/23-q.m.p-1.20.1-beta-0.0.4.92.jar"
+hash-format = "sha1"
+hash = "fdf2e62d3477add6001185e45db202a56accb11d"

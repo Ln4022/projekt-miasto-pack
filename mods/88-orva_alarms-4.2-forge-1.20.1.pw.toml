@@ -1,0 +1,8 @@
+name = "orva_alarms-4.2-forge-1.20.1"
+filename = "88-orva_alarms-4.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/88-orva_alarms-4.2-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "1e60b7efd50036ab6f35e666ee71e6cd1b8b629e"

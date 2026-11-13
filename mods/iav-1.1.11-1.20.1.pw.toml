@@ -1,0 +1,12 @@
+name = "IAV-1.1.11-1.20.1"
+filename = "IAV-1.1.11-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x99uA7Bu/versions/OqHpsCYj/IAV-1.1.11-1.20.1.jar"
+hash-format = "sha1"
+hash = "6ef6736f7a0fec392b9e3ee2e2c791b00f4658ca"
+
+[update.modrinth]
+mod-id = "x99uA7Bu"
+version = "OqHpsCYj"

@@ -1,0 +1,12 @@
+name = "ACME+HVY+IND-1.20.1-b3.3.0"
+filename = "ACME+HVY+IND-1.20.1-b3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tlgmtCcj/versions/gj1ddmO8/ACME%2BHVY%2BIND-1.20.1-b3.3.0.jar"
+hash-format = "sha1"
+hash = "cb02a3d63e7059e263fcd3feee515ee97ffb6cd4"
+
+[update.modrinth]
+mod-id = "tlgmtCcj"
+version = "gj1ddmO8"

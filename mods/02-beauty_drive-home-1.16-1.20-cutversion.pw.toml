@@ -1,0 +1,8 @@
+name = "Beauty_Drive Home(1.16-1.20)cutversion"
+filename = "02-beauty_drive-home-1.16-1.20-cutversion.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/02-beauty_drive-home-1.16-1.20-cutversion.jar"
+hash-format = "sha1"
+hash = "5ac6841cae970c9a443eb47b95f6a7a468324e4e"

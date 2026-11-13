@@ -1,0 +1,13 @@
+name = "Projekt: Miasto"
+author = "Dariusz"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fdb3cbaa278d57ad7aac80b8381902d8debee6693994351247c3ca6ddb094957"
+
+[versions]
+minecraft = "1.20.1"
+forge = "47.4.28"

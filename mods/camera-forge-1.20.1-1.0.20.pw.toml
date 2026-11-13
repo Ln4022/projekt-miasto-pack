@@ -1,0 +1,12 @@
+name = "camera-forge-1.20.1-1.0.20"
+filename = "camera-forge-1.20.1-1.0.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oiuNWinn/versions/LgjYRUxt/camera-forge-1.20.1-1.0.20.jar"
+hash-format = "sha1"
+hash = "f6f15a7c2cd66a7e702c2eacafb9b10b3e074d39"
+
+[update.modrinth]
+mod-id = "oiuNWinn"
+version = "LgjYRUxt"

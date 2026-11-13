@@ -1,0 +1,8 @@
+name = "geckolib-forge-1.20.1-4.8.4"
+filename = "61-geckolib-forge-1.20.1-4.8.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/61-geckolib-forge-1.20.1-4.8.4.jar"
+hash-format = "sha1"
+hash = "81982cc287f80ffabb2fd36d22cc95e4255c739d"

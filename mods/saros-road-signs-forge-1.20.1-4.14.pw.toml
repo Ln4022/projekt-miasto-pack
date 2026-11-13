@@ -1,0 +1,12 @@
+name = "Saros-Road-Signs-Forge-1.20.1-4.14"
+filename = "Saros-Road-Signs-Forge-1.20.1-4.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ba3uA4qP/versions/gD7T9d21/Saros-Road-Signs-Forge-1.20.1-4.14.jar"
+hash-format = "sha1"
+hash = "cd6e5ff85238d14acf6a554dff5702a79fb643d1"
+
+[update.modrinth]
+mod-id = "Ba3uA4qP"
+version = "gD7T9d21"

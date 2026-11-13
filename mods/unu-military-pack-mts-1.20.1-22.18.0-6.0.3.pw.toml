@@ -1,0 +1,12 @@
+name = "UNU Military Pack [MTS] 1.20.1-22.18.0-6.0.3"
+filename = "UNU Military Pack [MTS] 1.20.1-22.18.0-6.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pRywjJox/versions/jFIa24Zx/UNU%20Military%20Pack%20%5BMTS%5D%201.20.1-22.18.0-6.0.3.jar"
+hash-format = "sha1"
+hash = "a87c924b03b94a652f87ef5b743b3d200c0a700c"
+
+[update.modrinth]
+mod-id = "pRywjJox"
+version = "jFIa24Zx"

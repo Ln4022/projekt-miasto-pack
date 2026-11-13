@@ -1,0 +1,12 @@
+name = "easy_npc-forge-1.20.1-6.11.0"
+filename = "easy_npc-forge-1.20.1-6.11.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Epm6R3P2/versions/7YEmuveE/easy_npc-forge-1.20.1-6.11.0.jar"
+hash-format = "sha1"
+hash = "3d6e788c3f3220c68cbe9f57cdd771eb91d89a98"
+
+[update.modrinth]
+mod-id = "Epm6R3P2"
+version = "7YEmuveE"

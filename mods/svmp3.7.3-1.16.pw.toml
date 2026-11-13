@@ -1,0 +1,12 @@
+name = "SVMP3.7.3 1.16+"
+filename = "SVMP3.7.3 1.16+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JBfHPeZC/versions/LKA6xzYY/SVMP3.7.3%201.16%2B.jar"
+hash-format = "sha1"
+hash = "e73e95c01734ad0d6a0ff26d6aa3d75c2d182d31"
+
+[update.modrinth]
+mod-id = "JBfHPeZC"
+version = "LKA6xzYY"

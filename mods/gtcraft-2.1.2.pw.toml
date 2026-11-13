@@ -1,0 +1,12 @@
+name = "gtcraft-2.1.2"
+filename = "gtcraft-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n1cr3YKZ/versions/ssj2yoeI/gtcraft-2.1.2.jar"
+hash-format = "sha1"
+hash = "a951e168754c37319a0c894f16f15817951e64da"
+
+[update.modrinth]
+mod-id = "n1cr3YKZ"
+version = "ssj2yoeI"

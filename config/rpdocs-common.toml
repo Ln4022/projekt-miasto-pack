@@ -1,0 +1,3 @@
+#Discord webhook used by /report. Leave empty to disable the command.
+reportWebhook = "https://discord.com/api/webhooks/1569762382035558462/uC22Tw-IRDZUgY0fvT4iiTY7rdSiMp6ZnxZxvgHQLlB-qZjt8o4lcuLcxO4GBYpDyUg5"
+

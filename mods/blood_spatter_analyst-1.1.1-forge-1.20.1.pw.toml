@@ -1,0 +1,12 @@
+name = "blood_spatter_analyst-1.1.1-forge-1.20.1"
+filename = "blood_spatter_analyst-1.1.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QLF2esIF/versions/wo6Ww5uf/blood_spatter_analyst-1.1.1-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "a8f7237654d47460624c13183d885541eda5abfb"
+
+[update.modrinth]
+mod-id = "QLF2esIF"
+version = "wo6Ww5uf"

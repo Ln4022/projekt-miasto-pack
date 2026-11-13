@@ -1,0 +1,8 @@
+name = "Telefonik2.20"
+filename = "30-telefonik2.20.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/30-telefonik2.20.jar"
+hash-format = "sha1"
+hash = "3347b16debafe34f50cb96dc5c3ae145633c9409"

@@ -1,0 +1,12 @@
+name = "UNU Civilian Pack [MTS] 1.20.1-22.18.0-6.7.1"
+filename = "UNU Civilian Pack [MTS] 1.20.1-22.18.0-6.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/POSZjYIb/versions/8WRgm45x/UNU%20Civilian%20Pack%20%5BMTS%5D%201.20.1-22.18.0-6.7.1.jar"
+hash-format = "sha1"
+hash = "7d9cc7a4790afa98ce18dbc3867425725bb4a03f"
+
+[update.modrinth]
+mod-id = "POSZjYIb"
+version = "8WRgm45x"

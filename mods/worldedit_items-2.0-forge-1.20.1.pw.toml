@@ -1,0 +1,12 @@
+name = "worldedit_items-2.0-forge-1.20.1"
+filename = "worldedit_items-2.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xBMX8ICO/versions/l9xtZ6cO/worldedit_items-2.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "842e725cfd2d846995562f68ba5f87effae3e107"
+
+[update.modrinth]
+mod-id = "xBMX8ICO"
+version = "l9xtZ6cO"

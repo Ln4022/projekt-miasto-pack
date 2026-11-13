@@ -1,0 +1,12 @@
+name = "worldedit-mod-7.2.15"
+filename = "worldedit-mod-7.2.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1u6JkXh5/versions/Wrlqaul6/worldedit-mod-7.2.15.jar"
+hash-format = "sha1"
+hash = "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
+
+[update.modrinth]
+mod-id = "1u6JkXh5"
+version = "Wrlqaul6"

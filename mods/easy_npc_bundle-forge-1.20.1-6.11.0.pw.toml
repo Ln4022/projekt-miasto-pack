@@ -1,0 +1,12 @@
+name = "easy_npc_bundle-forge-1.20.1-6.11.0"
+filename = "easy_npc_bundle-forge-1.20.1-6.11.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CgGEe1h3/versions/95N0vWVB/easy_npc_bundle-forge-1.20.1-6.11.0.jar"
+hash-format = "sha1"
+hash = "f527de3b0bca33bcdb7b838b92a000daaed37f2c"
+
+[update.modrinth]
+mod-id = "CgGEe1h3"
+version = "95N0vWVB"

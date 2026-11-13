@@ -1,0 +1,12 @@
+name = "nastias_miracle_stones_mod-2.1.2-Bugfix2"
+filename = "nastias_miracle_stones_mod-2.1.2-Bugfix2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wiKMnwWH/versions/U9Z5CQX2/nastias_miracle_stones_mod-2.1.2-Bugfix2.jar"
+hash-format = "sha1"
+hash = "058bdb327eb8b38d570138544f577308b7547a44"
+
+[update.modrinth]
+mod-id = "wiKMnwWH"
+version = "U9Z5CQX2"

@@ -1,0 +1,8 @@
+name = "eqlib-1.0.3"
+filename = "58-eqlib-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/58-eqlib-1.0.3.jar"
+hash-format = "sha1"
+hash = "f8b59d8c365bb873e2ca7baf088c6dbbb978989e"

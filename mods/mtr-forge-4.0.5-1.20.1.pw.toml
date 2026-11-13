@@ -1,0 +1,12 @@
+name = "MTR-forge-4.0.5+1.20.1"
+filename = "MTR-forge-4.0.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/R05lh1Ys/MTR-forge-4.0.5%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "5209416ccc9105d6175f4a0498d5eb6e0db714a8"
+
+[update.modrinth]
+mod-id = "XKPAmI6u"
+version = "R05lh1Ys"

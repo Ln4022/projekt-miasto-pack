@@ -1,0 +1,12 @@
+name = "VEB-1.1.11-1.20.1"
+filename = "VEB-1.1.11-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BPmM9RTx/versions/lUAacLNx/VEB-1.1.11-1.20.1.jar"
+hash-format = "sha1"
+hash = "8aff624cfc720bd3b0f6487f61eeb937a330133b"
+
+[update.modrinth]
+mod-id = "BPmM9RTx"
+version = "lUAacLNx"

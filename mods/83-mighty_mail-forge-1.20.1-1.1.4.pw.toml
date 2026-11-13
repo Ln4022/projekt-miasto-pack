@@ -1,0 +1,8 @@
+name = "mighty_mail-forge-1.20.1-1.1.4"
+filename = "83-mighty_mail-forge-1.20.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/83-mighty_mail-forge-1.20.1-1.1.4.jar"
+hash-format = "sha1"
+hash = "43af108f39831eb75280b63e0819a1b1176abda8"

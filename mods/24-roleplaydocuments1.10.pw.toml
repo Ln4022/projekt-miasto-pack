@@ -1,0 +1,8 @@
+name = "RoleplayDocuments1.10"
+filename = "24-roleplaydocuments1.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/24-roleplaydocuments1.10.jar"
+hash-format = "sha1"
+hash = "4022dabf8edf31e778e503961182ba7b3581f202"

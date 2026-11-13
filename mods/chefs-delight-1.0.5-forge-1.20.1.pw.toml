@@ -1,0 +1,12 @@
+name = "chefs-delight-1.0.5-forge-1.20.1"
+filename = "chefs-delight-1.0.5-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pvcsfne4/versions/2xW9d8wE/chefs-delight-1.0.5-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "4123040047a6ce1dda13dc02cf3e4295b3bc99aa"
+
+[update.modrinth]
+mod-id = "pvcsfne4"
+version = "2xW9d8wE"

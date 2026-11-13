@@ -1,0 +1,8 @@
+name = "mdm-3.2-forge-1.20.1"
+filename = "82-mdm-3.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/82-mdm-3.2-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "21a4e406f63f8dd769fc9822e98bae85194ff328"

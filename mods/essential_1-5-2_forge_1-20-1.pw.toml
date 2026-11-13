@@ -1,0 +1,12 @@
+name = "Essential_1-5-2_forge_1-20-1"
+filename = "Essential_1-5-2_forge_1-20-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/uXgxMHcS/Essential_1-5-2_forge_1-20-1.jar"
+hash-format = "sha1"
+hash = "3ee77bfdc284c58a35ef6c9405d718ae4b73f94b"
+
+[update.modrinth]
+mod-id = "k2ZPuTBm"
+version = "uXgxMHcS"

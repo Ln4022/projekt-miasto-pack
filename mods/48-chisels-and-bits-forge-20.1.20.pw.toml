@@ -1,0 +1,8 @@
+name = "chisels-and-bits-forge-20.1.20"
+filename = "48-chisels-and-bits-forge-20.1.20.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/48-chisels-and-bits-forge-20.1.20.jar"
+hash-format = "sha1"
+hash = "aa88d268371df1d65abcf355ad2d69fa0ce7c603"

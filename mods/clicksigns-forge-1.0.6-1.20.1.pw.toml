@@ -1,0 +1,12 @@
+name = "ClickSigns-forge-1.0.6+1.20.1"
+filename = "ClickSigns-forge-1.0.6+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xaXWiLzT/versions/exaWp5UK/ClickSigns-forge-1.0.6%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "48b02fda7cc30a3d6a998cdbd1f6675fc37ca7b4"
+
+[update.modrinth]
+mod-id = "xaXWiLzT"
+version = "exaWp5UK"

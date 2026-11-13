@@ -1,0 +1,12 @@
+name = "moonlight-1.20-2.16.38B-forge"
+filename = "moonlight-1.20-2.16.38B-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/ibsm7pYC/moonlight-1.20-2.16.38B-forge.jar"
+hash-format = "sha1"
+hash = "7394cf9cbc30015b50f794ae9a85aa0b18ab152b"
+
+[update.modrinth]
+mod-id = "twkfQtEc"
+version = "ibsm7pYC"

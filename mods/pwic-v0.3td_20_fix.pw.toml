@@ -1,0 +1,12 @@
+name = "PWIC-V0.3TD_20_fix"
+filename = "PWIC-V0.3TD_20_fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dr4Ms3g7/versions/tP3lLjfi/PWIC-V0.3TD_20_fix.jar"
+hash-format = "sha1"
+hash = "d2bce7bf97887c27ccfb21948f66428c7089e4be"
+
+[update.modrinth]
+mod-id = "Dr4Ms3g7"
+version = "tP3lLjfi"

@@ -1,0 +1,8 @@
+name = "diegesis-forge-1.20.1-1.0.0-beta.7"
+filename = "52-diegesis-forge-1.20.1-1.0.0-beta.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/52-diegesis-forge-1.20.1-1.0.0-beta.7.jar"
+hash-format = "sha1"
+hash = "508ede5ca3a8850d266cf8c4e8a2dfbdc4393025"

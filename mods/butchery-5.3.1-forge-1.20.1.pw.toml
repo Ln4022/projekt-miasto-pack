@@ -1,0 +1,12 @@
+name = "butchery-5.3.1-forge-1.20.1"
+filename = "butchery-5.3.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6YfOmC9t/versions/eSRqVGis/butchery-5.3.1-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "6d13f93b8ca637c8c7c1132b95836f4fedea6b4f"
+
+[update.modrinth]
+mod-id = "6YfOmC9t"
+version = "eSRqVGis"

@@ -1,0 +1,8 @@
+name = "CGM-Unofficial-1.4.20+Forge+1.20.1"
+filename = "03-cgm-unofficial-1.4.20-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ln4022/projekt-miasto-pack/releases/download/v0.1.0/03-cgm-unofficial-1.4.20-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "275e48d6ff5be47d29efc4bc03bec783e67a0f45"
